@@ -5,28 +5,6 @@ This repository contains the code and the steps for the implementation of attend
 
 The Attendance Management System is a Python-based application that uses OpenCV for face recognition to record attendance. This project simplifies the attendance tracking process by automating the task using facial recognition technology.
 
-## Contributors
-
--> KrishnaRaj
-
-  Linkedin Handle: https://www.linkedin.com/in/krishnaraj-d-b156b5280/
-  
--> Lokesh Rahul
-
-  Linkedin Handle: https://www.linkedin.com/in/lokesh-rahul-066ab7277
-  
--> Aakash
-
-  Linkedin Handle: https://in.linkedin.com/in/aakash-p-631677272
-  
--> Vasantha Mukilan
-
-  Linkedin Handle: https://www.linkedin.com/in/vasanthamukilan-m-11644b279
-  
--> karthick
-
-  Linkedin Handle: https://www.linkedin.com/in/karthick-prabakaran-8253211b6/
-
 ## Features
 
 - Real-time face detection and recognition.
@@ -95,3 +73,4 @@ We welcome contributions from the community! If you'd like to contribute to the 
   ### Special thanks to our team members for their hard work and Nagaraj for mentoring us on this project.
 
 Feel free to reach out to us with any questions or feedback. Happy coding!            :)
+
